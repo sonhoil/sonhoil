@@ -35,7 +35,7 @@
 <hr/>
 
 <h3 align="center">
-  Business Projects
+ 💼Business Projects💼
   <br/>
 </h3>
 
