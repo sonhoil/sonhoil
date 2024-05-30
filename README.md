@@ -1,7 +1,7 @@
 <div align="center" style="text-align:center">
   
 <h3 align="center">
-  <a href="https://cookinghoil.tistory.com/">🙋🏻‍♀️Tstory Blog (개발하면서 얻은 내용을 정리중입니다.)🙋🏻‍♀️</a>
+  <a href="https://cookinghoil.tistory.com/">🙋🏻‍♀️T-story Blog (개발하면서 얻은 내용을 정리중입니다.)🙋🏻‍♀️</a>
 </h3>
 
 <hr/>
