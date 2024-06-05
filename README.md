@@ -1,5 +1,7 @@
 <div align="center" style="text-align:center">
-  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDD00,100:FFD700&height=200&section=header&text=SonHoil%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=55" alt="header"/>
+</div>
 <h3 align="center">
   <a href="https://cookinghoil.tistory.com/">🙋🏻‍♀️T-story Blog (개발하면서 얻은 내용을 정리중입니다.)🙋🏻‍♀️</a>
 </h3>
